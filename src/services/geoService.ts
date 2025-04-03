@@ -35,38 +35,6 @@ export class GeoService {
         }
     }
 
-    // private calculateDistanceToRoute(route: Route, userPoint: Feature<GeoJSONPoint>): number {
-    //     let minDistance = Infinity;
-
-    //     for (const pointOnRoute of route.pointsOnRoutes) {
-    //         try {
-    //             const point = pointOnRoute.point;
-    //             const region = point.region;
-
-    //             if (region?.geometry?.type === 'Polygon' && this.isValidPolygonCoordinates(region.geometry.coordinates)) {
-    //                 const polygon = turf.polygon(region.geometry.coordinates);
-
-    //                 // Check if user is inside the polygon
-    //                 if (turf.booleanPointInPolygon(userPoint, polygon)) {
-    //                     return 0; // User is inside the polygon
-    //                 }
-
-    //                 // Calculate distance from user point to polygon
-    //                 const distance = turf.pointToPolygonDistance(userPoint, polygon, { units: 'kilometers' });
-    //                 if (distance < minDistance) {
-    //                     minDistance = distance;
-    //                 }
-    //             }
-    //         } catch (error) {
-    //             console.error('Error processing point on route:', error);
-    //             continue;
-    //         }
-    //     }
-    //     return minDistance;
-    // }
-
-    // Helper method to validate polygon coordinates
-
     private calculateDistanceToRoute(route: Route, userPoint: Feature<GeoJSONPoint>): number {
         let minDistance = Infinity;
 
