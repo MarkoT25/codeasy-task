@@ -1,0 +1,1005 @@
+[ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 11.273542, 59.08423 ],
+    [ 11.273374, 59.085107 ],
+    [ 11.272876, 59.085951 ],
+    [ 11.272068, 59.086728 ],
+    [ 11.270979, 59.08741 ],
+    [ 11.269653, 59.087969 ],
+    [ 11.26814, 59.088385 ],
+    [ 11.266498, 59.088641 ],
+    [ 11.26479, 59.088727 ],
+    [ 11.263082, 59.088641 ],
+    [ 11.26144, 59.088385 ],
+    [ 11.259927, 59.087969 ],
+    [ 11.258601, 59.08741 ],
+    [ 11.257512, 59.086728 ],
+    [ 11.256704, 59.085951 ],
+    [ 11.256206, 59.085107 ],
+    [ 11.256038, 59.08423 ],
+    [ 11.256206, 59.083353 ],
+    [ 11.256705, 59.082509 ],
+    [ 11.257514, 59.081732 ],
+    [ 11.258602, 59.081051 ],
+    [ 11.259928, 59.080492 ],
+    [ 11.261441, 59.080076 ],
+    [ 11.263083, 59.07982 ],
+    [ 11.26479, 59.079734 ],
+    [ 11.266497, 59.07982 ],
+    [ 11.268139, 59.080076 ],
+    [ 11.269652, 59.080492 ],
+    [ 11.270978, 59.081051 ],
+    [ 11.272067, 59.081732 ],
+    [ 11.272875, 59.082509 ],
+    [ 11.273374, 59.083353 ],
+    [ 11.273542, 59.08423 ]
+  ]
+]
+////////////////
+userPoint:  {
+  type: 'Feature',
+  properties: {},
+  geometry: { type: 'Point', coordinates: [ 15, 45 ] }
+}
+pointsOnRoutes:  [
+  {
+    point: {
+      id: 1164,
+      createdAt: '2011-05-23T10:08:17.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1165,
+      createdAt: '2011-05-23T10:31:47.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1166,
+      createdAt: '2011-05-23T11:25:41.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1176,
+      createdAt: '2011-05-24T14:16:37.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1177,
+      createdAt: '2011-05-24T14:43:46.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1178,
+      createdAt: '2011-05-24T15:31:38.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1181,
+      createdAt: '2011-06-06T14:40:14.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1182,
+      createdAt: '2011-06-06T14:46:38.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1183,
+      createdAt: '2011-06-06T15:04:07.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1184,
+      createdAt: '2011-06-06T15:11:43.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1185,
+      createdAt: '2011-06-06T15:21:54.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1186,
+      createdAt: '2011-06-06T15:29:10.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1187,
+      createdAt: '2011-06-06T15:37:27.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1188,
+      createdAt: '2011-06-07T10:29:05.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1189,
+      createdAt: '2011-06-07T10:32:42.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1191,
+      createdAt: '2011-06-07T12:23:45.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1192,
+      createdAt: '2011-06-07T12:43:37.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1193,
+      createdAt: '2011-06-07T13:15:24.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1194,
+      createdAt: '2011-06-07T13:34:05.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1195,
+      createdAt: '2011-06-07T13:45:13.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1196,
+      createdAt: '2011-06-07T14:16:16.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1197,
+      createdAt: '2011-06-07T14:30:20.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1198,
+      createdAt: '2011-06-07T14:39:37.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1199,
+      createdAt: '2011-06-07T14:46:12.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1200,
+      createdAt: '2011-06-07T14:54:52.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1201,
+      createdAt: '2011-06-07T15:01:54.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1202,
+      createdAt: '2011-06-07T16:07:39.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1203,
+      createdAt: '2011-06-07T16:16:43.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1221,
+      createdAt: '2011-06-09T13:51:36.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1222,
+      createdAt: '2011-06-09T13:54:37.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1223,
+      createdAt: '2011-06-09T13:57:27.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1224,
+      createdAt: '2011-06-09T13:59:35.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1225,
+      createdAt: '2011-06-09T14:03:38.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1226,
+      createdAt: '2011-06-09T14:05:55.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1237,
+      createdAt: '2011-06-10T13:19:32.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1240,
+      createdAt: '2011-06-10T13:24:36.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1241,
+      createdAt: '2011-06-10T13:27:37.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1244,
+      createdAt: '2011-06-10T13:38:40.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1250,
+      createdAt: '2011-07-04T12:34:56.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1251,
+      createdAt: '2011-07-04T12:37:06.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1252,
+      createdAt: '2011-07-04T12:39:15.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1253,
+      createdAt: '2011-07-04T12:41:52.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1254,
+      createdAt: '2011-07-04T12:45:35.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1255,
+      createdAt: '2011-07-04T12:47:51.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1256,
+      createdAt: '2011-07-04T12:49:36.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1259,
+      createdAt: '2011-07-04T15:45:34.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1260,
+      createdAt: '2011-07-04T15:51:19.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1261,
+      createdAt: '2011-07-04T15:53:55.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1262,
+      createdAt: '2011-07-04T15:55:33.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1263,
+      createdAt: '2011-07-04T16:05:20.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1264,
+      createdAt: '2011-07-04T16:18:02.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1265,
+      createdAt: '2011-07-04T16:24:04.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1266,
+      createdAt: '2011-07-04T16:26:06.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1331,
+      createdAt: '2011-07-06T16:07:07.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1332,
+      createdAt: '2011-07-06T16:12:26.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1333,
+      createdAt: '2011-07-06T16:14:51.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1334,
+      createdAt: '2011-07-06T16:17:54.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1335,
+      createdAt: '2011-07-06T16:20:20.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1336,
+      createdAt: '2011-07-06T16:23:22.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1337,
+      createdAt: '2011-07-06T16:25:12.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1338,
+      createdAt: '2011-07-06T16:27:22.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1339,
+      createdAt: '2011-07-06T16:31:56.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1340,
+      createdAt: '2011-07-06T16:34:03.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 1341,
+      createdAt: '2011-07-07T13:41:19.000Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 3103,
+      createdAt: '2016-03-22T16:33:03.000Z',
+      region: [Object]
+    }
+  }
+]
+Error calculating distance for route 2576: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2576: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2566: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2566: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2625: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2625: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2625: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2625: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2625: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2620: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2620: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2620: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2620: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+coords:  [
+  [
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ]
+  ]
+]
+////////////////
+coords:  [
+  [
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ],
+    [ 7.692524, 62.558039 ]
+  ]
+]
+////////////////
+userPoint:  {
+  type: 'Feature',
+  properties: {},
+  geometry: { type: 'Point', coordinates: [ 15, 45 ] }
+}
+pointsOnRoutes:  [
+  {
+    point: {
+      id: 9385,
+      createdAt: '2023-11-20T09:00:33.527Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 9386,
+      createdAt: '2023-11-20T09:00:33.891Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 9387,
+      createdAt: '2023-11-20T09:00:34.157Z',
+      region: [Object]
+    }
+  },
+  {
+    point: {
+      id: 9388,
+      createdAt: '2023-11-20T09:00:34.403Z',
+      region: [Object]
+    }
+  }
+]
+Error calculating distance for route 2649: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2649: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2649: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
+Error calculating distance for route 2649: Error: coordinates must contain numbers
+    at point (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\helpers\index.ts:269:11)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:113:25
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:748:11
+    at geomEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:597:13)
+    at flattenEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:739:3)
+    at nearestPointOnLine (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\nearest-point-on-line\index.ts:70:3)
+    at distanceToSegment (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:109:21)
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\point-to-line-distance\index.ts:77:17
+    at C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:941:13
+    at coordEach (C:\Users\Marko Ticinovic\Desktop\codeasy\node_modules\@turf\meta\index.js:119:15)
