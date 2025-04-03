@@ -11,7 +11,7 @@ export class GeoService {
     }
 
     // Getting the closest routes to the user coordinates
-    public async findNearestRoutes(lng: number, lat: number, count: number = 10): Promise<Route[]> {
+    public async findNearestRoutes(lng: number, lat: number, count: number = 1): Promise<Route[]> {
         try {
             const routes = await this.dataService.getRoutes();
             const userPoint = turf.point([lng, lat]);
@@ -240,13 +240,24 @@ export class GeoService {
             const bbox: BBox = [Math.min(lng1, lng2), Math.min(lat1, lat2), Math.max(lng1, lng2), Math.max(lat1, lat2)];
             const bboxPolygon = turf.bboxPolygon(bbox);
 
-            const points: Point[] = [];
+            // Use a Map to track unique points by ID
+            const uniquePointsMap = new Map<string | number, Point>();
 
             routes.forEach(route => {
                 route.pointsOnRoutes.forEach(pointOnRoute => {
                     try {
-                        if (this.isPointInViewport(pointOnRoute.point, bboxPolygon)) {
-                            points.push(pointOnRoute.point);
+                        const point = pointOnRoute.point;
+
+                        // Skip if we already have this point (by ID)
+                        if (point.id && uniquePointsMap.has(point.id)) {
+                            return;
+                        }
+
+                        if (this.isPointInViewport(point, bboxPolygon)) {
+                            // Add to the map using ID as key
+                            if (point.id) {
+                                uniquePointsMap.set(point.id, point);
+                            }
                         }
                     } catch (error) {
                         console.error(`Error checking point in viewport:`, error);
@@ -254,7 +265,8 @@ export class GeoService {
                 });
             });
 
-            return points;
+            // Convert the map values to an array
+            return Array.from(uniquePointsMap.values());
         } catch (error) {
             console.error('Error in findPointsInViewport:', error);
             throw error;
