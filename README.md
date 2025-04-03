@@ -75,5 +75,5 @@ Parameters:
 
 Example:
 ```
-GET /api/findPointsInViewport?lng1=15.9&lat1=45.7&lng2=16.0&lat2=45.9
+GET /api/findPointsInViewport?lng1=16.37&lat1=43.48&lng2=16.52&lat2=43.55
 ```
