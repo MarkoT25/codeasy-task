@@ -2,18 +2,19 @@ import express from 'express';
 import cors from "cors";
 import dotenv from 'dotenv';
 import { RouteController } from './controllers/routeController';
+import { GeoService } from './services/geoService';
 
 dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 3000;
-const routeController = new RouteController();
 
-// Middleware
-app.use(cors());  //Access from any origin
+const geoService = new GeoService();
+const routeController = new RouteController(geoService);
+
+app.use(cors());  
 app.use(express.json()); 
 
-// Routes
 app.get('/api/findNearestRoutes', routeController.findNearestRoutes);
 app.get('/api/findPointsInViewport', routeController.findPointsInViewport);
 

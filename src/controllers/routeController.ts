@@ -2,10 +2,10 @@ import { Request, Response } from 'express';
 import { GeoService } from '../services/geoService';
 
 export class RouteController {
-    private geoService: GeoService;
+    private _geoService: GeoService;
 
-    constructor() {
-        this.geoService = new GeoService();
+    constructor(geoService: GeoService) {
+        this._geoService = geoService;
     }
 
     public findNearestRoutes = async (req: Request, res: Response): Promise<void> => {
@@ -14,7 +14,6 @@ export class RouteController {
             const lat = parseFloat(req.query.lat as string);
             const count = req.query.count ? parseInt(req.query.count as string) : 10;
 
-            // Validation
             if (isNaN(lng) || isNaN(lat)) {
                 res.status(400).json({ error: 'Incorrect latitude and longitude parameters' });
                 return;
@@ -25,7 +24,7 @@ export class RouteController {
                 return;
             }
 
-            const routes = await this.geoService.findNearestRoutes(lng, lat, count);
+            const routes = await this._geoService.findNearestRoutes(lng, lat, count);
             res.status(200).json({ routes });
         } catch (error) {
             console.error('Error in findNearestRoutes', error);
@@ -35,7 +34,6 @@ export class RouteController {
 
 
     public findPointsInViewport = async (req: Request, res: Response): Promise<void> => {
-        console.log("findPointsInViewport called with params:", req.query);
         try {
             const lng1 = parseFloat(req.query.lng1 as string);
             const lat1 = parseFloat(req.query.lat1 as string);
@@ -43,11 +41,11 @@ export class RouteController {
             const lat2 = parseFloat(req.query.lat2 as string);
 
             if (isNaN(lng1) || isNaN(lat1) || isNaN(lng2) || isNaN(lat2)) {
-                res.status(400).json({ error: 'Neispravni parametri viewport-a' });
+                res.status(400).json({ error: 'Invalid viewport parameters.' });
                 return;
             }
 
-            const points = await this.geoService.findPointsInViewport(lng1, lat1, lng2, lat2);
+            const points = await this._geoService.findPointsInViewport(lng1, lat1, lng2, lat2);
             res.status(200).json({ points });
         } catch (error) {
             console.error('Error in findPointsInViewport:', error);

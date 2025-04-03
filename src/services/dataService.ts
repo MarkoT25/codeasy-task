@@ -6,7 +6,7 @@ export class DataService {
 
     private cachedData: Route[] | null = null;
     private lastFetchTime: number = 0;
-    private readonly CACHE_TTL = 1000 * 60 * 10; // 10 minuta
+    private readonly CACHE_TTL = 1000 * 60 * 10;
 
     private constructor() { }
 
@@ -31,9 +31,9 @@ export class DataService {
             this.lastFetchTime = currentTime;
             return this.cachedData;
         } catch (error) {
-            console.error('Greška pri dohvaćanju podataka:', error);
+            console.error('Error while fetching:', error);
 
-            //If the data is not available, return the cached data if it exists
+            //Return cached data if there is not data available
             if (this.cachedData) {
                 return this.cachedData;
             }

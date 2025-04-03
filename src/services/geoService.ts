@@ -45,12 +45,11 @@ export class GeoService {
 
                 if (!region?.geometry?.coordinates) continue;
 
-                // Force convert all coordinates to numbers and validate the structure
+                // Convert all coordinates to numbers and validate the structure
                 const cleanCoordinates = this.ensureNumericCoordinates(region.geometry.coordinates);
                 if (!cleanCoordinates) continue;
 
                 try {
-                    // Create a new polygon with guaranteed numeric coordinates
                     const polygon = turf.polygon(cleanCoordinates);
 
                     // Check if user is inside the polygon
@@ -58,7 +57,6 @@ export class GeoService {
                         return 0; // User is inside the polygon
                     }
 
-                    // Manual distance calculation as a fallback
                     const distance = this.calculateMinimumDistanceManually(userPoint, cleanCoordinates);
                     if (distance < minDistance) {
                         minDistance = distance;
@@ -74,8 +72,8 @@ export class GeoService {
         return minDistance;
     }
 
-    // Helper method to ensure all coordinates are proper numbers
-    private ensureNumericCoordinates(coordinates: any): number[][][] | null {
+    // Check if coordinates are valid and convert to numbers
+    private ensureNumericCoordinates(coordinates: number[][][]): number[][][] | null {
         if (!Array.isArray(coordinates)) return null;
 
         try {
@@ -89,7 +87,6 @@ export class GeoService {
                 for (const point of ring) {
                     if (!Array.isArray(point) || point.length < 2) continue;
 
-                    // Explicitly convert to numbers and validate
                     const x = Number(point[0]);
                     const y = Number(point[1]);
 
@@ -98,13 +95,11 @@ export class GeoService {
                     cleanRing.push([x, y]);
                 }
 
-                // Ensure ring is closed
                 if (cleanRing.length >= 3) {
                     const first = cleanRing[0];
                     const last = cleanRing[cleanRing.length - 1];
 
                     if (first[0] !== last[0] || first[1] !== last[1]) {
-                        // Close the ring by adding the first point at the end
                         cleanRing.push([first[0], first[1]]);
                     }
 
@@ -121,19 +116,16 @@ export class GeoService {
         }
     }
 
-    // Manually calculate the minimum distance to a polygon without relying on complex turf functions
+    // Calculate the minimum distance to a polygon 
     private calculateMinimumDistanceManually(userPoint: Feature<GeoJSONPoint>, polygonCoordinates: number[][][]): number {
         const userCoords = userPoint.geometry.coordinates;
         let minDistance = Infinity;
 
-        // For each ring in the polygon
         for (const ring of polygonCoordinates) {
-            // For each line segment in the ring
             for (let i = 0; i < ring.length - 1; i++) {
                 const p1 = ring[i];
                 const p2 = ring[i + 1];
 
-                // Calculate distance from point to line segment
                 const distance = this.pointToLineDistance(userCoords, p1, p2);
 
                 if (distance < minDistance) {
@@ -154,7 +146,6 @@ export class GeoService {
         const x2 = lineEnd[0];
         const y2 = lineEnd[1];
 
-        // If line segment is actually a point
         if (x1 === x2 && y1 === y2) {
             return this.haversineDistance([x, y], [x1, y1]);
         }
@@ -187,7 +178,7 @@ export class GeoService {
         return this.haversineDistance([x, y], [xx, yy]);
     }
 
-    // Calculate haversine distance (great-circle distance on earth)
+    // Calculate haversine distance 
     private haversineDistance(point1: number[], point2: number[]): number {
         const [lon1, lat1] = point1;
         const [lon2, lat2] = point2;
@@ -213,7 +204,8 @@ export class GeoService {
         if (!Array.isArray(coordinates) || coordinates.length === 0) return false;
 
         for (const ring of coordinates) {
-            if (!Array.isArray(ring) || ring.length < 4) return false; // Need at least 4 points for a closed ring
+            // Need at least 4 points for a closed ring
+            if (!Array.isArray(ring) || ring.length < 4) return false; 
 
             for (const point of ring) {
                 if (!Array.isArray(point) || point.length < 2) return false;
@@ -221,7 +213,6 @@ export class GeoService {
                 if (isNaN(point[0]) || isNaN(point[1])) return false;
             }
 
-            // Check if ring is closed (first point equals last point)
             const first = ring[0];
             const last = ring[ring.length - 1];
             if (!this.arePointsEqual(first, last)) return false;
@@ -240,7 +231,6 @@ export class GeoService {
             const bbox: BBox = [Math.min(lng1, lng2), Math.min(lat1, lat2), Math.max(lng1, lng2), Math.max(lat1, lat2)];
             const bboxPolygon = turf.bboxPolygon(bbox);
 
-            // Use a Map to track unique points by ID
             const uniquePointsMap = new Map<string | number, Point>();
 
             routes.forEach(route => {
@@ -248,13 +238,11 @@ export class GeoService {
                     try {
                         const point = pointOnRoute.point;
 
-                        // Skip if we already have this point (by ID)
                         if (point.id && uniquePointsMap.has(point.id)) {
                             return;
                         }
 
                         if (this.isPointInViewport(point, bboxPolygon)) {
-                            // Add to the map using ID as key
                             if (point.id) {
                                 uniquePointsMap.set(point.id, point);
                             }
@@ -265,7 +253,6 @@ export class GeoService {
                 });
             });
 
-            // Convert the map values to an array
             return Array.from(uniquePointsMap.values());
         } catch (error) {
             console.error('Error in findPointsInViewport:', error);
