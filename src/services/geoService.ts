@@ -139,43 +139,42 @@ export class GeoService {
 
     // Calculate distance from a point to a line segment
     private pointToLineDistance(point: number[], lineStart: number[], lineEnd: number[]): number {
-        const x = point[0];
-        const y = point[1];
-        const x1 = lineStart[0];
-        const y1 = lineStart[1];
-        const x2 = lineEnd[0];
-        const y2 = lineEnd[1];
-
-        if (x1 === x2 && y1 === y2) {
-            return this.haversineDistance([x, y], [x1, y1]);
+        const pointLng = point[0];
+        const pointLat = point[1];
+        const startLng = lineStart[0];
+        const startLat = lineStart[1];
+        const endLng = lineEnd[0];
+        const endLat = lineEnd[1];
+    
+        if (startLng === endLng && startLat === endLat) {
+            return this.haversineDistance([pointLng, pointLat], [startLng, startLat]);
         }
-
-        // Calculate projection
-        const A = x - x1;
-        const B = y - y1;
-        const C = x2 - x1;
-        const D = y2 - y1;
-
-        const dot = A * C + B * D;
-        const lenSq = C * C + D * D;
-        let param = -1;
-
-        if (lenSq !== 0) param = dot / lenSq;
-
-        let xx, yy;
-
-        if (param < 0) {
-            xx = x1;
-            yy = y1;
-        } else if (param > 1) {
-            xx = x2;
-            yy = y2;
+    
+        const lngDiffPoint = pointLng - startLng;
+        const latDiffPoint = pointLat - startLat;
+        const lngDiffLine = endLng - startLng;
+        const latDiffLine = endLat - startLat;
+    
+        const dotProduct = lngDiffPoint * lngDiffLine + latDiffPoint * latDiffLine;
+        const lineLengthSquared = lngDiffLine * lngDiffLine + latDiffLine * latDiffLine;
+        let projectionFactor = -1;
+    
+        if (lineLengthSquared !== 0) projectionFactor = dotProduct / lineLengthSquared;
+    
+        let nearestLng, nearestLat;
+    
+        if (projectionFactor < 0) {
+            nearestLng = startLng;
+            nearestLat = startLat;
+        } else if (projectionFactor > 1) {
+            nearestLng = endLng;
+            nearestLat = endLat;
         } else {
-            xx = x1 + param * C;
-            yy = y1 + param * D;
+            nearestLng = startLng + projectionFactor * lngDiffLine;
+            nearestLat = startLat + projectionFactor * latDiffLine;
         }
-
-        return this.haversineDistance([x, y], [xx, yy]);
+    
+        return this.haversineDistance([pointLng, pointLat], [nearestLng, nearestLat]);
     }
 
     // Calculate haversine distance 
